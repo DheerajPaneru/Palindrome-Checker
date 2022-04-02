@@ -1,0 +1,62 @@
+h1{
+    border-end-end-radius: 34px;
+    border-color: black;
+    border: 13px solid rgb(136, 255, 0);
+    border-width: 12px;
+      text-align:center;
+        padding:23px;
+        background-color:skyblue; 
+        color:green;
+        }
+        
+        .container{
+            width: 450px;
+            height: 530px;
+            margin: 55px auto;
+        padding: 70px;
+            border-radius: 50px;
+        text-align: center;
+            background-color: rgb(255, 127, 155);
+            border: 15px solid rgb(145, 135, 235);
+        }
+        
+        input:hover
+    {
+        background-color: green;
+    }
+    
+    
+    
+    
+    button{
+    height: 50px;
+    margin :2px;
+    color: black;
+        width: 150px;
+        font-size: 25px;
+        cursor :pointer;
+        background-color: red;
+    }
+    
+    
+    p{
+    margin-top: 30px;
+    text-align: left;
+    font-size: xx-large;
+    }
+    
+    .input{
+
+        height: 50px;
+        margin :2px;
+         border-color: black;
+            width: 450px;
+            font-size: 25px;
+            cursor :pointer;
+            border: 134px;
+            background-color: yellow;
+            
+border-radius: 34px;
+
+
+    }
